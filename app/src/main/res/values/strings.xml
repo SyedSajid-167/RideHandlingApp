@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ride Simulator</string>
+    <string name="tagline">Fast, reliable city commuting</string>
+    <string name="pickup_hint">Enter pickup location (e.g. Connaught Place)</string>
+    <string name="drop_hint">Enter destination (e.g. Airport Terminal 3)</string>
+    <string name="vehicle_choice_title">Select Vehicle</string>
+    <string name="vehicle_bike">Bike</string>
+    <string name="vehicle_auto">Auto</string>
+    <string name="vehicle_cab">Cab</string>
+    <string name="estimated_fare_label">Estimated Fare:</string>
+    <string name="book_ride_btn">Book Ride Now</string>
+    <string name="view_history_btn">Ride History</string>
+</resources>
